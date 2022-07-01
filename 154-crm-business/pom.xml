@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>sagesserag</groupId>
-  <artifactId>m145-crm-business</artifactId>
+  <artifactId>154-crm-business</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>m145-crm-business</name>
+  <name>154-crm-business</name>
   <url>http://maven.apache.org</url>
 
    	<properties>
@@ -15,7 +15,6 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 	</properties>
-
   <dependencies>
   
   <dependency>

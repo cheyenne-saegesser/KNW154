@@ -19,7 +19,7 @@
   <dependencies>
   <dependency>
   	  <groupId>sagesserag</groupId>
-  <artifactId>m145-crm-business</artifactId>
+  <artifactId>154-crm-business</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   </dependency>
   
