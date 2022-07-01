@@ -1,0 +1,1 @@
+docker run -p 7070:7070 -d 154-crm-web
